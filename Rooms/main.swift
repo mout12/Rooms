@@ -1,11 +1,3 @@
-//
-//  main.swift
-//  Rooms
-//
-//  Created by Jackson Buck on 1/26/24.
-//
+let livingRoom = Room(name: "Living Room")
 
-import Foundation
-
-print("Hello, World!")
-
+print("Hello " + livingRoom.name)
